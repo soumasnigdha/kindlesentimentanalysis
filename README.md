@@ -46,7 +46,7 @@ Text data is transformed into numerical features using three different vectoriza
 
 3.  **Word Embeddings (Word2Vec)**:
 
-    * A custom Word2Vec model is trained on the corpus.
+    * The pre-trained `word2vec-google-news-300` model was used.
 
     * Features are generated using:
 
