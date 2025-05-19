@@ -4,11 +4,11 @@ This project focuses on building and evaluating different machine learning model
 
 ## Dataset
 
-The project uses the `all_kindle_review.csv` dataset.
+(https://jmcauley.ucsd.edu/data/amazon/)[https://jmcauley.ucsd.edu/data/amazon/]
 
 * **File**: `all_kindle_review.csv`
 
-* **Content**: Contains Kindle review text (`reviewText`) and numerical ratings (`rating`).
+* **Content**: Contains Kindle review text (`reviewText`) and numerical ratings (`rating`). Other columns were dropped as they were not relevant for sentiment analysis.
 
 * **Original Ratings**: 1 to 5 stars.
 
