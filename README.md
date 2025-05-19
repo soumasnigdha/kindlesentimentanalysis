@@ -72,6 +72,8 @@ Model performance is assessed using standard classification metrics:
 
 * **Confusion Matrix**
 
+* The best accuracy achieved was 0.7654 using a model trained with Google's Word2Vec embeddings. 
+
 ## Libraries and Dependencies
 
 The project requires the following Python libraries:
