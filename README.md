@@ -60,7 +60,7 @@ The data is split into training (80%) and testing (20%) sets. The following mach
 
 * **Random Forest Classifier** for Word Embeddings (Word2Vec)
 
-* **Naive Bayes (MultinomialNB)** for BoW and TF-IDF
+* **Naive Bayes (GaussianNB)** for BoW and TF-IDF
 
 Model performance is assessed using standard classification metrics:
 
