@@ -58,11 +58,9 @@ Text data is transformed into numerical features using three different vectoriza
 
 The data is split into training (80%) and testing (20%) sets. The following machine learning models are trained and evaluated using each of the feature engineering methods:
 
-* **Logistic Regression**
+* **Random Forest Classifier** for Word Embeddings (Word2Vec)
 
-* **Random Forest Classifier**
-
-* **Naive Bayes (MultinomialNB)**
+* **Naive Bayes (MultinomialNB)** for BoW and TF-IDF
 
 Model performance is assessed using standard classification metrics:
 
